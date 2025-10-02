@@ -1,0 +1,36 @@
+{
+  "name": "The Sign",
+  "symbol": "TSIGN",
+  "description": "Reclaim your data. Fuel the public AI-Proof ecosystem. Own the future. This is The Sign.",
+  "image": "https://raw.githubusercontent.com/AI-Proof/files_for_thesign_metadata/main/TheSign_logo.jpg",
+  "animation_url": "https://www.aiproof.is/new-sign-logo.gif",
+  "external_url": "https://aiproof.is",
+
+  "tokenStandard": "Fungible",
+
+  "attributes": [
+    { "trait_type": "Category", "value": "Participation Token" },
+    { "trait_type": "Project", "value": "AI-Proof Initiative" },
+    { "trait_type": "Mission", "value": "Data Sovereignty & Economic Liberation" },
+    { "trait_type": "Governance", "value": "Community-Owned" },
+    { "trait_type": "Network", "value": "Solana" }
+  ],
+
+  "tags": ["community", "DePIN", "utility", "data sovereignty", "movement", "initiative"],
+
+  "extensions": {
+    "website": "https://aiproof.is",
+    "twitter": "https://x.com/aiproofis",
+    "discord": "https://discord.com/invite/CkVKeh96y",
+    "github": "https://github.com/AI-Proof",
+    "whitepaper": "https://www.aiproof.is/TheSign_Whitepaper.pdf"
+  },
+
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/AI-Proof/files_for_thesign_metadata/main/TheSign_logo.jpg", "type": "image/jpeg" },
+      { "uri": "https://www.aiproof.is/new-sign-logo.gif", "type": "image/gif" }
+    ]
+  }
+}
