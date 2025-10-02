@@ -3,7 +3,7 @@
   "symbol": "TSIGN",
   "description": "Reclaim your data. Fuel the public AI-Proof ecosystem. Own the future. This is The Sign.",
   "image": "https://raw.githubusercontent.com/AI-Proof/files_for_thesign_metadata/main/TheSign_logo.jpg",
-  "animation_url": "https://www.aiproof.is/new-sign-logo.gif",
+  "animation_url": "https://raw.githubusercontent.com/AI-Proof/files_for_thesign_metadata/refs/heads/main/thesign-animation.gif",
   "external_url": "https://aiproof.is",
 
   "tokenStandard": "Fungible",
@@ -30,7 +30,7 @@
     "category": "image",
     "files": [
       { "uri": "https://raw.githubusercontent.com/AI-Proof/files_for_thesign_metadata/main/TheSign_logo.jpg", "type": "image/jpeg" },
-      { "uri": "https://www.aiproof.is/new-sign-logo.gif", "type": "image/gif" }
+      { "uri": "https://raw.githubusercontent.com/AI-Proof/files_for_thesign_metadata/refs/heads/main/thesign-animation.gif", "type": "image/gif" }
     ]
   }
 }
